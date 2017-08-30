@@ -1,0 +1,247 @@
+.nosubnav	{
+	float:left;
+	padding:  40px 15% 0;
+     width: 14%;
+	margin:0;
+	background:#CCC;
+	display:none;
+
+	
+}
+
+form.DTF_Form a.info, form.DTF_Form a.info:visited
+{
+    color: #6B0F24;
+    text-decoration: underline;
+    margin-left: 15px;
+    
+}
+
+form.DTF_Form input.formField
+{
+
+    
+}
+
+
+form.DTF_Form label 
+{
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+
+
+
+form.DTF_Form label.normal 
+{
+    font-size: 1.1em;
+    font-weight: normal;
+    margin-top: 30px;
+}
+
+
+
+form.DTF_Form em.required
+{
+     color: #6B0F24;
+     font-weight: bold;
+}
+
+
+
+form.DTF_Form label.checkBoxLabel
+{
+    margin-top: 0px;
+    display: block;
+ 
+    margin-top:  0px;
+    padding-left: 20px;
+ 
+    
+}
+
+form.DTF_Form a.btn {
+  
+    clear: both;
+    margin-top: 15px;
+  
+}
+
+
+
+form.DTF_Form INPUT[type="checkbox"]
+{
+   
+    display: block;
+        float: left;
+    
+}
+
+
+form.DTF_Form INPUT[type="radio"]
+{
+   
+    display: block;
+    float: left;
+    margin-top: 2px;
+    padding-top: 0px;
+    
+}
+
+
+
+form.DTF_Form  INPUT.err
+{
+
+border-color: #b73125;
+background-color: #ffe9e7;
+color: #FF0000;
+    
+}
+
+
+form.DTF_Form label.err
+{
+
+color: #b73125;
+    
+}
+
+
+
+
+
+
+#glossary H6
+{
+  font-weight: bold;
+  margin-bottom: 0px;
+  font-size: 1.1em;
+    
+}
+
+#glossary H5
+{
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 1.9em;
+   color: #6B0F24;
+    
+}
+
+#glossary A {
+
+text-decoration:  underline;
+}
+
+.wide
+{
+    width: 50%;
+  
+    
+}
+
+.righthandcolumn {
+    float: left;
+    margin: 5px 0 0;
+    width: 28%;
+}
+
+
+
+@media (max-width: 480px) {
+    
+
+.wide
+{
+    width: 85%;
+  
+    
+}
+span.unimportant
+{
+    display: none;
+    
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+
+
+.wide
+{
+    width: 72%;
+  
+    
+}
+
+}
+
+@media (min-width: 768px) {
+
+
+.wide
+{
+    width: 75%;
+  
+    
+}
+
+}
+
+@media (min-width: 980px) {
+    
+    #dtf_0_x .contentarea {
+        background: none;
+        float: left;
+        padding:28px 2.5%;
+	   width:95%
+    }
+
+
+
+    #dtf_0_x .contentblock {
+        float: left;
+        width: 95%;
+        padding: 0 0 0 5%;
+    }
+
+   #dtf_0_x .centercolumn {
+    float: left;
+    margin: 0 4.75% 0 0;
+    padding: 20px 0 0;
+    width: 67.0%;
+}
+    
+    #dtf_0_x .rightsidecallout {
+    float: left;
+    margin: 5px 0 0;
+    padding: 137px 2.3% 20px;
+    width: 75%;
+}
+
+
+
+
+
+.wide
+{
+    width: 75%;
+  
+    
+}
+}
+
+
+
+
+
+
+    
+
+
+

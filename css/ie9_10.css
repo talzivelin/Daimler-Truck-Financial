@@ -1,0 +1,37 @@
+.logobar	{
+	min-width:300px;
+}
+
+@media (max-width: 480px) {
+
+.logobar	{
+	padding-bottom:28px;
+	width: 43%;
+	min-width:300px;
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 767px)	{
+
+.logobar	{
+	width: 100%;
+}
+	
+}
+
+@media (max-width: 767px)	{
+	
+}
+
+@media (min-width: 768px) {
+	.logobar	{
+	padding-bottom:28px;
+	width: 43%;
+	min-width:253px;
+}
+}
+
+@media (min-width: 980px) {}
+
+@media (min-width: 1170px) {}
